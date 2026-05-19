@@ -1,18 +1,16 @@
 body {
     font-family: Arial, sans-serif;
     display: flex;
-    justify-content: center;
-    align-items: center;
   
     margin: 0;
-    background-color: #191919;
+    background-color: #292929;
 }
 
 .container {
     text-align: center;
-    background-color: rgb(43, 43, 43);
     padding: 40px;
     border-radius: 10px;
+    min-width: 400px;
 }
 
 h1 {
